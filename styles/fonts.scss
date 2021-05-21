@@ -1,0 +1,101 @@
+// BOLD
+@font-face {
+    font-family: "SF Mono";
+    font-weight: 700;
+    src: url("/fonts/SF-Mono/SFMono-Bold.otf");
+    font-display: swap;
+}
+
+/** Bold Italic */
+@font-face {
+    font-family: "SF Mono";
+    font-weight: 700;
+    font-style: italic;
+    src: url("/fonts/SF-Mono/SFMono-BoldItalic.otf");
+    font-display: swap;
+}
+
+/** Heavy */
+@font-face {
+    font-family: "SF Mono";
+    font-weight: 800;
+    src: url("/fonts/SF-Mono/SFMono-Heavy.otf");
+    font-display: swap;
+}
+
+/** Heavy Italic */
+@font-face {
+    font-family: "SF Mono";
+    font-weight: 800;
+    font-style: italic;
+    src: url("/fonts/SF-Mono/SFMono-HeavyItalic.otf");
+    font-display: swap;
+}
+
+/** Light */
+@font-face {
+    font-family: "SF Mono";
+    font-weight: 200;
+    src: url("/fonts/SF-Mono/SFMono-Light.otf");
+    font-display: swap;
+}
+
+/** Light Italic */
+@font-face {
+    font-family: "SF Mono";
+    font-weight: 200;
+    font-style: italic;
+    src: url("/fonts/SF-Mono/SFMono-HeavyItalic.otf");
+    font-display: swap;
+}
+
+/** Medium */
+@font-face {
+    font-family: "SF Mono";
+    font-weight: 500;
+    src: url("/fonts/SF-Mono/SFMono-Medium.otf");
+    font-display: swap;
+}
+
+/** Medium Italic */
+@font-face {
+    font-family: "SF Mono";
+    font-weight: 500;
+    font-style: italic;
+    src: url("/fonts/SF-Mono/SFMono-MediumItalic.otf");
+    font-display: swap;
+}
+
+/** Regular */
+@font-face {
+    font-family: "SF Mono";
+    font-weight: 400;
+    src: url("/fonts/SF-Mono/SFMono-Regular.otf");
+    font-display: swap;
+}
+
+/** Regular Italic */
+@font-face {
+    font-family: "SF Mono";
+    font-weight: 400;
+    font-style: italic;
+    src: url("/fonts/SF-Mono/SFMono-RegularItalic.otf");
+    font-display: swap;
+}
+
+/** Semibold */
+@font-face {
+    font-family: "SF Mono";
+    font-weight: 600;
+    src: url("/fonts/SF-Mono/SFMono-Semibold.otf");
+    font-display: swap;
+}
+
+/** Semibold Italic */
+@font-face {
+    font-family: "SF Mono";
+    font-weight: 600;
+    font-style: italic;
+    src: url("/fonts/SF-Mono/SFMono-SemiboldItalic.otf");
+    font-display: swap;
+}
